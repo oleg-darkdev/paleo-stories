@@ -1,12 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-    
-.js-accordion-body {
-  display: none;
-}
-
 html {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -2023,7 +2014,7 @@ strong {
   filter: none;
   object-fit: cover;
   object-position: 50% 50%;
-  background-image: url(/images/background-image.svg);
+  background-image: url(../images/background-image.svg);
   background-position: 50%;
   background-size: cover;
   height: 100%;
@@ -2438,7 +2429,7 @@ strong {
       var(--swatch--dark) 11%,
       rgba(255, 255, 255, 0) 86%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -2450,7 +2441,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
   display: none;
@@ -2570,7 +2561,7 @@ strong {
 }
 .carrusel-img-div {
   aspect-ratio: 5/3;
-  background-image: url(/images/65ba9bb70ecc350442f5d5fa_pabellon-m-kommuna.jpg);
+  background-image: url(../images/65ba9bb70ecc350442f5d5fa_pabellon-m-kommuna.jpg);
   background-position: 0 0;
   background-size: cover;
   flex: none;
@@ -2582,18 +2573,18 @@ strong {
   overflow: hidden;
 }
 .carrusel-img-div._2 {
-  background-image: url(/images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
+  background-image: url(../images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
   background-position: 50%;
   overflow: hidden;
 }
 .carrusel-img-div._3 {
-  background-image: url(/images/65ba9bcf245a3963eb931efd_byd-cleber-kommuna.jpg);
+  background-image: url(../images/65ba9bcf245a3963eb931efd_byd-cleber-kommuna.jpg);
   background-position: 50%;
   min-height: 22rem;
   overflow: hidden;
 }
 .carrusel-img-div._4 {
-  background-image: url(/images/65ba9ba039cadc72b94222b1_tim-hortons-kommuna.jpg);
+  background-image: url(../images/65ba9ba039cadc72b94222b1_tim-hortons-kommuna.jpg);
 }
 .forces-section {
   padding-top: var(--padding-section);
@@ -3074,10 +3065,10 @@ strong {
   display: flex;
 }
 .carrusel-logos._2 {
-  background-image: url(/images/6595e9506381e1908b178e61_image%203home-kommuna.jpg);
+  background-image: url(../images/6595e9506381e1908b178e61_image%203home-kommuna.jpg);
 }
 .carrusel-logos._3 {
-  background-image: url(/images/6595e9673387c8d6a7e7291d_image%202home-kommuna.jpg);
+  background-image: url(../images/6595e9673387c8d6a7e7291d_image%202home-kommuna.jpg);
 }
 .svg-code {
   display: none;
@@ -3131,27 +3122,27 @@ strong {
   display: flex;
 }
 .marquee-image.png {
-  background-image: url(/images/65961183bf01415ff3e2fc06_Group%2020logo-client.png);
+  background-image: url(../images/65961183bf01415ff3e2fc06_Group%2020logo-client.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 129px;
 }
 .marquee-image.png.gnp {
-  background-image: url(/images/659611c0bf01415ff3e31463_escenario-gnp-logo-client.png);
+  background-image: url(../images/659611c0bf01415ff3e31463_escenario-gnp-logo-client.png);
   background-size: 148px;
 }
 .marquee-image.png.ccpm {
-  background-image: url(/images/6596121196fea550433f9560_ccpm-logo-client.png);
+  background-image: url(../images/6596121196fea550433f9560_ccpm-logo-client.png);
 }
 .marquee-image.png.jh {
-  background-image: url(/images/65a592d276bdbd487fccb978_johns-hopkins-university-kommuna.png);
+  background-image: url(../images/65a592d276bdbd487fccb978_johns-hopkins-university-kommuna.png);
   background-size: cover;
 }
 .marquee-image.png.airtable {
-  background-image: url(/images/65a599f51cf5628f65fb7adc_airtable-kommuna-tools-expertise.png);
+  background-image: url(../images/65a599f51cf5628f65fb7adc_airtable-kommuna-tools-expertise.png);
 }
 .marquee-image.png.sales-force {
-  background-image: url(/images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
+  background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
   background-size: cover;
 }
 .marquee-image.webflow {
@@ -3220,7 +3211,7 @@ strong {
 }
 .overlay {
   z-index: 22;
-  background-image: url(/images/659c357fe2a37923e1ed9abb_displacement-hero.png);
+  background-image: url(../images/659c357fe2a37923e1ed9abb_displacement-hero.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 290vh;
@@ -3672,7 +3663,7 @@ strong {
 }
 .footer-wrapper.careers {
   background-image: linear-gradient(#000, transparent 54%),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 0%;
   background-repeat: repeat, no-repeat;
   background-size: auto, 1300px;
@@ -3680,7 +3671,7 @@ strong {
 .footer-wrapper.xelw {
   background-color: rgba(31, 13, 13, 0);
   background-image: linear-gradient(#030303 31%, transparent 71%, #030303 89%),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50% 90%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -3985,20 +3976,20 @@ strong {
   display: none;
 }
 .ft-image-item {
-  background-image: url(/images/659c0a7803482ce5bde9fae9_byd-kommuna.jpg);
+  background-image: url(../images/659c0a7803482ce5bde9fae9_byd-kommuna.jpg);
   background-position: 50% 60%;
   background-size: cover;
   min-height: 17rem;
 }
 .ft-image-item._2 {
-  background-image: url(/images/659c0a868081d4b2cdf03662_buffalo-wild-wings-kommuna.jpg);
+  background-image: url(../images/659c0a868081d4b2cdf03662_buffalo-wild-wings-kommuna.jpg);
   background-position: 50% 20%;
 }
 .ft-image-item._3 {
-  background-image: url(/images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-kommuna.jpg);
+  background-image: url(../images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-kommuna.jpg);
 }
 .ft-image-item._4 {
-  background-image: url(/images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-kommuna.jpg);
+  background-image: url(../images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-kommuna.jpg);
   background-position: 50% 40%;
   min-height: 22rem;
 }
@@ -4019,17 +4010,17 @@ strong {
   display: flex;
 }
 .client-item.png {
-  background-image: url(/images/65961183bf01415ff3e2fc06_Group%2020logo-client.png);
+  background-image: url(../images/65961183bf01415ff3e2fc06_Group%2020logo-client.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 129px;
 }
 .client-item.png.gnp {
-  background-image: url(/images/659611c0bf01415ff3e31463_escenario-gnp-logo-client.png);
+  background-image: url(../images/659611c0bf01415ff3e31463_escenario-gnp-logo-client.png);
   background-size: 148px;
 }
 .client-item.png.ccpm {
-  background-image: url(/images/6596121196fea550433f9560_ccpm-logo-client.png);
+  background-image: url(../images/6596121196fea550433f9560_ccpm-logo-client.png);
 }
 .spline-mobile-hero {
   z-index: -1;
@@ -4535,17 +4526,17 @@ strong {
   display: flex;
 }
 .tool-item.png {
-  background-image: url(/images/65961183bf01415ff3e2fc06_Group%2020logo-client.png);
+  background-image: url(../images/65961183bf01415ff3e2fc06_Group%2020logo-client.png);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: 129px;
 }
 .tool-item.png.gnp {
-  background-image: url(/images/659611c0bf01415ff3e31463_escenario-gnp-logo-client.png);
+  background-image: url(../images/659611c0bf01415ff3e31463_escenario-gnp-logo-client.png);
   background-size: 148px;
 }
 .tool-item.png.ccpm {
-  background-image: url(/images/6596121196fea550433f9560_ccpm-logo-client.png);
+  background-image: url(../images/6596121196fea550433f9560_ccpm-logo-client.png);
 }
 .linkfooter:hover {
   color: var(--button--background-hover);
@@ -4685,7 +4676,7 @@ strong {
   position: relative;
 }
 .utility-page-wrap {
-  background-image: url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+  background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 50%;
   background-size: cover;
   justify-content: center;
@@ -5047,7 +5038,7 @@ strong {
   aspect-ratio: auto;
   -webkit-text-fill-color: inherit;
   object-fit: cover;
-  background-image: url(/images/background-image.svg);
+  background-image: url(../images/background-image.svg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -5537,7 +5528,7 @@ strong {
   text-decoration: none;
 }
 .brand-section {
-  background-image: url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+  background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 50%;
   background-size: cover;
   padding-top: 0;
@@ -5782,7 +5773,7 @@ strong {
       var(--swatch--dark) 11%,
       rgba(255, 255, 255, 0) 86%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -5794,7 +5785,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
 }
@@ -5820,7 +5811,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
 }
@@ -5936,7 +5927,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
   display: none;
@@ -6154,7 +6145,7 @@ strong {
       var(--swatch--dark) 11%,
       rgba(255, 255, 255, 0) 86%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -6166,7 +6157,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
   display: none;
@@ -6276,7 +6267,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 72%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -6287,7 +6278,7 @@ strong {
     display: block;
   }
   .hero-container {
-    background-image: url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 50%;
     background-size: cover;
     position: static;
@@ -6417,7 +6408,7 @@ strong {
     padding-right: 0;
   }
   .cta {
-    background-image: url(/images/659c357fe2a37923e1ed9abb_displacement-hero.png);
+    background-image: url(../images/659c357fe2a37923e1ed9abb_displacement-hero.png);
     background-position: 50%;
     background-repeat: no-repeat;
     background-size: auto;
@@ -6445,7 +6436,7 @@ strong {
     background-position: 0 0;
   }
   .footer-wrapper.xelw {
-    background-image: url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 30% 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -6525,20 +6516,20 @@ strong {
     overflow: hidden;
   }
   .ft-image-item {
-    background-image: url(/images/659c0a7803482ce5bde9fae9_byd-kommuna.jpg);
+    background-image: url(../images/659c0a7803482ce5bde9fae9_byd-kommuna.jpg);
     background-position: 50%;
     background-size: cover;
     min-height: 15rem;
   }
   .ft-image-item._2 {
-    background-image: url(/images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
+    background-image: url(../images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
   }
   .ft-image-item._3 {
-    background-image: url(/images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-kommuna.jpg);
+    background-image: url(../images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-kommuna.jpg);
     min-height: 14rem;
   }
   .ft-image-item._4 {
-    background-image: url(/images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-kommuna.jpg);
+    background-image: url(../images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-kommuna.jpg);
     min-height: 10rem;
   }
   .client-container {
@@ -6575,10 +6566,10 @@ strong {
     flex: none;
   }
   .client-item.png.arauco {
-    background-image: url(/images/659c3109be5ec9caf14e1260_arauco.png);
+    background-image: url(../images/659c3109be5ec9caf14e1260_arauco.png);
   }
   .client-item.png.jh {
-    background-image: url(/images/659d71d839bd01b67ee0ebf7_johns-hopkins.png);
+    background-image: url(../images/659d71d839bd01b67ee0ebf7_johns-hopkins.png);
     background-size: 130%;
   }
   .client-item.arauco {
@@ -6671,14 +6662,14 @@ strong {
     flex: none;
   }
   .tool-item.png.arauco {
-    background-image: url(/images/659c3109be5ec9caf14e1260_arauco.png);
+    background-image: url(../images/659c3109be5ec9caf14e1260_arauco.png);
   }
   .tool-item.png.jh {
-    background-image: url(/images/659d71d839bd01b67ee0ebf7_johns-hopkins.png);
+    background-image: url(../images/659d71d839bd01b67ee0ebf7_johns-hopkins.png);
     background-size: 130%;
   }
   .tool-item.png.sales-force {
-    background-image: url(/images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
+    background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
     background-size: cover;
   }
   .tool-item.arauco {
@@ -6902,7 +6893,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 72%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -6987,7 +6978,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 72%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7068,7 +7059,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 48%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7368,7 +7359,7 @@ strong {
     padding: 0.5rem;
   }
   .tool-item.png.sales-force {
-    background-image: url(/images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
+    background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
     background-size: cover;
   }
   .tool-item.bk {
@@ -7544,7 +7535,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 48%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7620,7 +7611,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 48%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7667,7 +7658,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 18%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7678,7 +7669,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .hero-container {
@@ -7778,14 +7769,14 @@ strong {
   }
   .footer-wrapper.careers {
     background-image: linear-gradient(#000, transparent 54%),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, 1200px;
   }
   .footer-wrapper.xelw {
     background-image: linear-gradient(#030303 35%, transparent 90%),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, 1010px;
@@ -8189,7 +8180,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 18%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -8200,7 +8191,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .hero-section-spline {
@@ -8215,7 +8206,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .spline-hero-container {
@@ -8285,7 +8276,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .background-video-6 {
@@ -8337,7 +8328,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 18%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -8348,7 +8339,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(/images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
     background-position: 0 0, 50%;
   }
 }
@@ -8639,7 +8630,7 @@ strong {
 }
 @font-face {
   font-family: "Neue Montreal";
-  src: url("/fonts/659adcccfaadfb8ed9cdf5b0_PPNeueMontreal-Bold.woff2")
+  src: url("../fonts/659adcccfaadfb8ed9cdf5b0_PPNeueMontreal-Bold.woff2")
     format("woff2");
   font-weight: 700;
   font-style: normal;
@@ -8647,7 +8638,7 @@ strong {
 }
 @font-face {
   font-family: "Neue Montreal";
-  src: url("/fonts/659adcccc4408c7cd75df5c1_PPNeueMontreal-Light.woff2")
+  src: url("../fonts/659adcccc4408c7cd75df5c1_PPNeueMontreal-Light.woff2")
     format("woff2");
   font-weight: 300;
   font-style: normal;
@@ -8655,7 +8646,7 @@ strong {
 }
 @font-face {
   font-family: "Neue Montreal";
-  src: url("/fonts/659adccc182168928f7d6fbb_PPNeueMontreal-Thin.woff2")
+  src: url("../fonts/659adccc182168928f7d6fbb_PPNeueMontreal-Thin.woff2")
     format("woff2");
   font-weight: 200;
   font-style: normal;
@@ -8663,7 +8654,7 @@ strong {
 }
 @font-face {
   font-family: "Neue Montreal";
-  src: url("/fonts/659adccd312d087df1c27035_PPNeueMontreal-Book.woff2")
+  src: url("../fonts/659adccd312d087df1c27035_PPNeueMontreal-Book.woff2")
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -8671,7 +8662,7 @@ strong {
 }
 @font-face {
   font-family: "Neue Montreal";
-  src: url("/fonts/659adccc6a43dcf0de0e90a2_PPNeueMontreal-Medium.woff2")
+  src: url("../fonts/659adccc6a43dcf0de0e90a2_PPNeueMontreal-Medium.woff2")
     format("woff2");
   font-weight: 500;
   font-style: normal;
@@ -8679,7 +8670,7 @@ strong {
 }
 @font-face {
   font-family: "Helvetica Neue";
-  src: url("/fonts/6584d0ca64e171ddd2ec9ee5_HelveticaNeueLTProRoman.otf")
+  src: url("../fonts/6584d0ca64e171ddd2ec9ee5_HelveticaNeueLTProRoman.otf")
     format("opentype");
   font-weight: 400;
   font-style: normal;
@@ -8687,7 +8678,7 @@ strong {
 }
 @font-face {
   font-family: "Helvetica Neue";
-  src: url("/fonts/6584d0ca8fe140cfc99fc275_HelveticaNeueLTProLt.otf")
+  src: url("../fonts/6584d0ca8fe140cfc99fc275_HelveticaNeueLTProLt.otf")
     format("opentype");
   font-weight: 300;
   font-style: normal;
@@ -8695,7 +8686,7 @@ strong {
 }
 @font-face {
   font-family: "Helvetica Neue";
-  src: url("/fonts/6584d0ca83ecb96799439810_HelveticaNeueLTProBd.otf")
+  src: url("../fonts/6584d0ca83ecb96799439810_HelveticaNeueLTProBd.otf")
     format("opentype");
   font-weight: 700;
   font-style: normal;
@@ -8703,81 +8694,9 @@ strong {
 }
 @font-face {
   font-family: "Helvetica Neue";
-  src: url("/fonts/6584d0ca64ff299ccd5058b2_HelveticaNeueLTProUltLt.otf")
+  src: url("../fonts/6584d0ca64ff299ccd5058b2_HelveticaNeueLTProUltLt.otf")
     format("opentype");
   font-weight: 200;
   font-style: normal;
   font-display: swap;
 }
-
-
- /* theme light */
-        :root,
-        [theme="1"],
-        [theme="2"] [invert="true"] {
-          --theme--background: var(--swatch--light);
-          --theme--text: var(--swatch--dark);
-          --theme--border: var(--swatch--dark-fade);
-          /* button */
-          --button--background: var(--swatch--dark);
-          --button--text: var(--swatch--light);
-          --button--border: var(--swatch--dark);
-          --button--background-hover: var(--swatch--brand);
-          --button--text-hover: var(--swatch--light);
-          --button--border-hover: var(--swatch--brand);
-          /* button */
-          --button2--background: var(--swatch--transparent);
-          --button2--text: var(--swatch--dark);
-          --button2--border: var(--swatch--dark);
-          --button2--background-hover: var(--swatch--dark);
-          --button2--text-hover: var(--swatch--light);
-          --button2--border-hover: var(--swatch--dark);
-        }
-
-        /* theme dark */
-        [theme="2"],
-        [invert="true"],
-        [theme="1"] [invert="true"] {
-          --theme--background: var(--swatch--dark);
-          --theme--text: var(--swatch--light);
-          --theme--border: var(--swatch--light-fade);
-          /* button */
-          --button--background: var(--swatch--light);
-          --button--text: var(--swatch--dark);
-          --button--border: var(--swatch--light);
-          --button--background-hover: var(--swatch--brand);
-          --button--text-hover: var(--swatch--light);
-          --button--border-hover: var(--swatch--brand);
-          /* button */
-          --button2--background: var(--swatch--transparent);
-          --button2--text: var(--swatch--light);
-          --button2--border: var(--swatch--brand);
-          --button2--background-hover: var(--swatch--brand);
-          --button2--text-hover: var(--swatch--light);
-          --button2--border-hover: var(--swatch--brand);
-        }
-
-        /* button outlined */
-        [button-style="2"] {
-          --button--background: var(--button2--background);
-          --button--text: var(--button2--text);
-          --button--border: var(--button2--border);
-          --button--background-hover: var(--button2--background-hover);
-          --button--text-hover: var(--button2--text-hover);
-          --button--border-hover: var(--button2--border-hover);
-        }
-
-        /* apply colors */
-        :where([theme="1"], [theme="2"], [invert="true"]) {
-          background-color: var(--theme--background);
-          color: var(--theme--text);
-        }
-
-
-                .slider-forces_overflow {
-          width: calc(100% + 100vw);
-        }
-
-        .slider-forces_overflow>div {
-          width: calc(100% - 100vw);
-        }
