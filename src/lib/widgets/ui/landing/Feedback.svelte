@@ -1,9 +1,9 @@
-<section id="testimonials" theme="1" class="testimonials">
+<section  theme="1" class="testimonials">
       <div class="container testimonials">
         <div class="div-tmn-intro">
-          <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868aa8-a2868aa5" class="div-block-99"></div>
-          <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868aa9-a2868aa5" class="testimonials-header-wrapper">
-            <div class="km-tmn-h4">CLIENT TESTIMONIALS</div>
+          <div  class="div-block-99"></div>
+          <div  class="testimonials-header-wrapper">
+            <div class="km-tmn-h4">other historical boardgames</div>
             <div class="padding _1rem"></div>
             <div class="km-tmn-h2">
               <span class="span-gray">Still not sure that we can get you results?</span> Ask them instead:
@@ -12,8 +12,8 @@
           </div>
         </div>
         <div class="slider-main_component">
-          <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ab3-a2868aa5" class="div-block-101"></div>
-          <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ab4-a2868aa5" class="arrows-wrapper">
+          <div  class="div-block-101"></div>
+          <div  class="arrows-wrapper">
             <a href="#" class="slider-main_button swiper-prev w-inline-block">
               <div class="slider-gallery_button-icon w-embed">
                 <svg width="31" height="25" viewBox="0 0 31 25" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -29,49 +29,24 @@
               </div>
             </a>
           </div>
-          <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ab9-a2868aa5" class="div-block-100"></div>
-          <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868aba-a2868aa5" class="wrap-test">
-            <div class="swiper is-slider-main w-dyn-list">
-              <div role="list" class="swiper-wrapper is-slider-main w-dyn-items w-row">
-                <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868abd-a2868aa5" role="listitem" class="swiper-slide is-slider-main w-dyn-item w-col w-col-6">
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868abe-a2868aa5" class="testimonial-names-div">
+
+          <div  class="div-block-100"></div>
+          <div  class="">
+            <div class="">
+              <div role="list" class="w-full">
+                <div role="listitem" class="grid grid-cols-3 w-full">
+                  <div class="testimonial-names-div">
                     <div class="km-tmn-h3">Adrianna Moore</div>
-                    <div class="km-tmn-h3">Johns Hopkins University</div>
                     <div class="km-tmn-h4">Senior Program Manager</div>
                   </div>
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ac2-a2868aa5" class="testimonial-number-div">
+                  <div  class="">
                     <div class="km-tmn-h3">01</div>
                   </div>
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ac4-a2868aa5" class="testimonial-div">
+                  <div   class="">
                     <div class="km-tmn-h3">Partnering with KOMMUNA has been a transformative experience. Together, we are making waves in Latino health awareness. Their work in branding, web, and campaigns is sparking crucial conversations in our community. Grateful for their impact and dedication!</div>
                   </div>
                 </div>
-                <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868abd-a2868aa5" role="listitem" class="swiper-slide is-slider-main w-dyn-item w-col w-col-6">
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868abe-a2868aa5" class="testimonial-names-div">
-                    <div class="km-tmn-h3">Daniela Zavala</div>
-                    <div class="km-tmn-h3">CLEBER</div>
-                    <div class="km-tmn-h4">Digital Marketing Manager</div>
-                  </div>
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ac2-a2868aa5" class="testimonial-number-div">
-                    <div class="km-tmn-h3">02</div>
-                  </div>
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ac4-a2868aa5" class="testimonial-div">
-                    <div class="km-tmn-h3">Working with KOMMUNA Media has been a game-changer for us. Their technology skills delivered sleek, functional websites in record time. Our online presence and marketing campaigns have been exceptionally optimized, thanks to their work. Highly recommend for speed, quality, and expertise.</div>
-                  </div>
-                </div>
-                <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868abd-a2868aa5" role="listitem" class="swiper-slide is-slider-main w-dyn-item w-col w-col-6">
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868abe-a2868aa5" class="testimonial-names-div">
-                    <div class="km-tmn-h3">Alejandra Ruiz</div>
-                    <div class="km-tmn-h3">Buffalo Wild Wings</div>
-                    <div class="km-tmn-h4">Marketing Director</div>
-                  </div>
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ac2-a2868aa5" class="testimonial-number-div">
-                    <div class="km-tmn-h3">03</div>
-                  </div>
-                  <div id="w-node-_9898a27f-19e6-7a27-dde3-27eba2868ac4-a2868aa5" class="testimonial-div">
-                    <div class="km-tmn-h3">Their team seamlessly blended creativity and technology, delivering campaigns that not only resonated with our audience but exceeded all expectations. A refreshing approach that sets them apart in the industry</div>
-                  </div>
-                </div>
+
               </div>
             </div>
           </div>
