@@ -1,7 +1,28 @@
+<script>
+  const links = [
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+  ]
+</script>
+
 <div class="navbars">
 	<nav theme="2" class="nvfix nvcareers">
 		<div class="nvfix-container">
-			<div class="w-locales-list">
+			<!-- <div class="w-locales-list">
 				<div data-delay="0" theme="2" class="dropdown-2 w-dropdown">
 					<div class="dropdownt w-dropdown-toggle">
 						<div class="icon-3 w-icon-dropdown-toggle" />
@@ -31,108 +52,36 @@
 						</div>
 					</nav>
 				</div>
-			</div>
-			<a href="/" aria-current="page" class="link-block-4 w-inline-block w--current">
+			</div> -->
+			<a href="/"  class="mx-auto">
 				<div class="html-embed-6 w-embed">
-					<svg
-						width="100%"
-						height="100%"
-						viewBox="0 0 173 24"
-						fill="none"
-						xmlns="http://www.w3.org/2000/svg"
-					>
-						<g clip-path="url(#clip0_693_1622)">
-							<path
-								d="M9.62146 11.6751L20.1583 1.06496V0.56439L15.0494 0.550781L5.39936 10.2817L5.386 0.56439H0.858154V23.4381H5.386V15.9268L6.81175 14.5046L15.6835 23.4381H20.7259V22.857L9.62146 11.6751Z"
-								fill="currentColor"
-							/>
-							<path
-								d="M71.2349 0.564453H67.2733H66.9182L59.3262 18.5748L51.7342 0.564453H51.3791H47.4175H46.8379V23.4286H51.3791V9.9624V9.13848L52.7184 13.1398L57.0557 23.4286H57.28H61.3723H61.5969L65.934 13.1398L67.2733 9.13848V9.9624V23.4286H71.8145V0.564453H71.2349Z"
-								fill="currentColor"
-							/>
-							<path
-								d="M101.32 0.564453H97.3587H97.0037L89.4116 18.5748L81.8196 0.564453H81.4644H77.5029H76.9233V23.4286H81.4644V9.9624V9.13848L82.8038 13.1398L87.141 23.4286H87.3655H91.4576H91.6822L96.0193 13.1398L97.3587 9.13848V9.9624V23.4286H101.9V0.564453H101.32Z"
-								fill="currentColor"
-							/>
-							<path
-								d="M120.632 0.564453V14.8277C120.632 17.7127 118.362 19.9721 115.524 19.9721C112.685 19.9721 110.415 17.7127 110.415 14.8277V0.564453H105.874V14.283C105.874 19.303 109.376 22.9998 113.689 23.826C114.156 23.9357 114.756 24.0005 115.524 24.0005C116.291 24.0005 116.891 23.9357 117.358 23.826C121.671 23 125.174 19.303 125.174 14.283V0.564453H120.632Z"
-								fill="currentColor"
-							/>
-							<path
-								d="M143.696 0.564453V16.0821V15.7541V16.285L143.192 15.3006L133.688 0.564453H131.418H129.147V23.4286H133.688V7.91094V7.42367L134.784 9.60936L143.696 23.4286H146.177H148.237V0.564453H143.696Z"
-								fill="currentColor"
-							/>
-							<path
-								d="M31.5037 0C24.9242 0 19.5906 5.37096 19.5906 11.9962C19.5906 18.6216 24.9244 23.9924 31.5037 23.9924C38.0833 23.9924 43.4169 18.6216 43.4169 11.9962C43.4169 5.37096 38.0833 0 31.5037 0ZM31.5074 20.5627C31.5074 20.5627 31.5062 20.5627 31.5056 20.5627C31.505 20.5627 31.5044 20.5627 31.5037 20.5627C27.5418 20.5608 24.692 17.7273 24.692 11.9961C24.692 6.26478 27.5226 3.43131 31.5037 3.42961C31.5037 3.42961 31.505 3.42961 31.5056 3.42961C31.5062 3.42961 31.5068 3.42961 31.5074 3.42961C35.4887 3.43147 38.3192 6.26494 38.3192 11.9962C38.3192 17.7275 35.4692 20.561 31.5074 20.5628V20.5627Z"
-								fill="currentColor"
-							/>
-							<path
-								d="M163.49 0.564453H158.949L149.583 22.7838V23.4288H153.627L156.037 17.7127L156.053 17.6752C157.765 17.7572 159.487 17.8003 161.219 17.8003C162.952 17.8003 164.674 17.7572 166.386 17.6752L166.402 17.7127L168.811 23.4288H172.856V22.7838L163.49 0.564453ZM161.219 13.799C160.046 13.799 158.876 13.7781 157.712 13.7389L157.724 13.7115L161.219 5.41845L164.715 13.7115L164.727 13.7389C163.562 13.7781 162.393 13.799 161.219 13.799Z"
-								fill="currentColor"
-							/>
-						</g>
-						<defs>
-							<clipPath id="clip0_693_1622">
-								<rect width="172" height="24" fill="currentColor" transform="translate(0.857178)" />
-							</clipPath>
-						</defs>
-					</svg>
+            <img src="" alt="logo" class="mx-auto w-20 h-10">
 				</div>
 			</a>
-			<a
+			<!-- <a
 				theme="2"
-				data-w-id="ab847b61-840b-c220-dd10-57f7cee9d127"
-				href="#"
+				href="/"
 				class="link-block-2 w-inline-block"
 			>
-				<div
-					data-is-ix2-target="1"
-					class="lottie-animation-7"
-					data-w-id="ab847b61-840b-c220-dd10-57f7cee9d128"
-					data-animation-type="lottie"
-					data-src="https://cdn.prod.website-files.com/5fecb6a109a3ad777769b977/62ffebed275b7bd1c259034a_lottie-menu.json"
-					data-loop="0"
-					data-direction="1"
-					data-autoplay="0"
-					data-renderer="svg"
-					data-default-duration="2.5"
-					data-duration="0"
-					data-ix2-initial-state="0"
-				/>
-			</a>
+
+			</a> -->
 		</div>
 	</nav>
 	<nav class="nvkm">
 		<div class="nvkm-disp-wrapper" />
 		<div class="nvkm-menu">
-			<a href="/" aria-current="page" class="navlink-km w-inline-block w--current">
+			<a href="/"  class="navlink-km w-inline-block w--current">
 				<div>Home</div>
 			</a>
-			<a href="/about" class="navlink-km w-inline-block">
-				<div>About</div>
-			</a>
-			<a href="/expertise" class="navlink-km w-inline-block">
-				<div>Expertise</div>
-			</a>
-			<a href="/careers" class="navlink-km w-inline-block">
-				<div>Careers</div>
-			</a>
-			<a href="/contact" class="navlink-km w-inline-block">
-				<div>Contact</div>
-			</a>
+
 		</div>
 	</nav>
 </div>
 <div class="floating-navbar home">
 	<div class="text-block-16">On this page:</div>
 	<div class="floatline" />
-	<a href="#mindset" class="float-link">About Us</a>
+  {#each links as link}
+	<a href="{link.href}" class="float-link">{link.title}</a>
 	<div class="floatline" />
-	<a href="#why" class="float-link">Why Us</a>
-	<div class="floatline" />
-	<a href="#faqs" class="float-link">FAQ</a>
-	<div class="floatline" />
-	<a href="#testimonials" class="float-link">Testimonials</a>
-	<div class="floatline" />
-	<a href="#contact" class="float-link">Contact</a>
+  {/each}
 </div>
