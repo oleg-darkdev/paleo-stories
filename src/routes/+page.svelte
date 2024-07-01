@@ -12,15 +12,15 @@
 
     <!-- <TargetAudience />  -->
     <!-- <TargetAudience />  -->
-    <Hero /> 
-    
-    <About /> 
+    <Hero />
 
-    <TargetAudience /> 
+    <About />
 
-    <TheStories /> 
+    <Features />
 
-    <Features /> 
+    <TheStories />
+
+    <TargetAudience />
 
     <Faq />
 
