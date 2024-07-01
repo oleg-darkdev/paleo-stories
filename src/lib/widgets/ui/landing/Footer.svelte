@@ -1,11 +1,33 @@
+<script>
+  const footerLinks = [
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+    {
+      title: 'Loremasdas',
+      href: '/'
+    },
+  ]
+</script>
+
 <div theme="2" class="footer-wrapper">
-      <section id="contact" theme="2" class="cta">
+      <section  theme="2" class="cta">
         <div class="cta-container">
           <div class="cta-wrap">
-            <h1 class="km-h2">Let's get you Marketing superpowers now. <br>Contact us for innovative marketing strategies and on-brand creative solutions. </h1>
+            <h1 class="km-h2">Let's get you Marketing superpowers now. <br>
+              Contact us to create innovative gamification of the learning process together.  </h1>
             <div class="padding _1rem"></div>
             <div class="button-div">
-              <a data-network="Social Network" button-style="1" theme="2" href="/contact" class="button-main-with-link w-inline-block">
+              <a button-style="1" theme="2" href="/" class="button-main-with-link w-inline-block">
                 <svg viewBox="0 0 15 15" fill="none" class="btn_main_icon">
                   <path d="M2.28604 12.214C3.21839 13.1463 4.40627 13.7813 5.69948 14.0385C6.99269 14.2957 8.33313 14.1637 9.5513 13.6591C10.7695 13.1545 11.8107 12.3 12.5432 11.2037C13.2758 10.1074 13.6667 8.81846 13.6667 7.49992C13.6667 6.18138 13.2758 4.89245 12.5432 3.79612C11.8107 2.69979 10.7695 1.84531 9.5513 1.34072C8.33313 0.836138 6.99269 0.704115 5.69948 0.96135C4.40627 1.21858 3.21839 1.85352 2.28604 2.78587" stroke="currentColor" stroke-width="1"></path>
                   <path d="M9 7.50008L9.39043 7.18773L9.64031 7.50008L9.39043 7.81243L9 7.50008ZM1 8.00008C0.723858 8.00008 0.5 7.77622 0.5 7.50008C0.5 7.22394 0.723858 7.00008 1 7.00008V8.00008ZM6.72377 3.8544L9.39043 7.18773L8.60957 7.81243L5.9429 4.4791L6.72377 3.8544ZM9.39043 7.81243L6.72377 11.1458L5.9429 10.5211L8.60957 7.18773L9.39043 7.81243ZM9 8.00008H1V7.00008H9V8.00008Z" stroke="currentColor" stroke-width="0.3" fill="currentColor"></path>
@@ -20,59 +42,37 @@
         <div class="container transparent">
           <div class="line-white"></div>
           <div class="col-12 footer">
-            <div class="footer-up">
-              <a id="w-node-c531c951-5c9c-adb3-11cb-e7b803981658-03981654" data-w-id="c531c951-5c9c-adb3-11cb-e7b803981658" href="/" aria-current="page" class="brand-small w-nav-brand w--current">
+            <div class="footer-up w-full">
+              <a href="/" class="brand-small w-nav-brand w--current">
                 <div class="w-embed">
-                  <svg width="108" height="15" viewBox="0 0 108 15" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <g clip-path="url(#clip0_669_149)">
-                      <path d="M5.50315 7.30037L12.1193 0.669018V0.356161L8.91138 0.347656L2.85207 6.42946L2.84368 0.356161H0.000610352V14.6523H2.84368V9.95767L3.73891 9.06878L9.30953 14.6523H12.4757V14.289L5.50315 7.30037Z" fill="#F6F8F6"></path>
-                      <path d="M44.1906 0.357422H41.7031H41.4802L36.7131 11.6139L31.946 0.357422H31.723H29.2355H28.8716V14.6475H31.723V6.23114V5.71619L32.564 8.21701L35.2874 14.6475H35.4283H37.9979H38.1388L40.8621 8.21701L41.7031 5.71619V6.23114V14.6475H44.5546V0.357422H44.1906Z" fill="#F6F8F6"></path>
-                      <path d="M63.0815 0.357422H60.594H60.371L55.6039 11.6139L50.8369 0.357422H50.6138H48.1264H47.7625V14.6475H50.6138V6.23114V5.71619L51.4549 8.21701L54.1782 14.6475H54.3191H56.8886H57.0296L59.7529 8.21701L60.594 5.71619V6.23114V14.6475H63.4454V0.357422H63.0815Z" fill="#F6F8F6"></path>
-                      <path d="M75.2077 0.357422V9.27194C75.2077 11.075 73.782 12.4872 71.9999 12.4872C70.2177 12.4872 68.792 11.075 68.792 9.27194V0.357422H65.9406V8.93154C65.9406 12.069 68.1398 14.3795 70.8482 14.8959C71.1415 14.9644 71.5181 15.0049 71.9999 15.0049C72.4816 15.0049 72.8583 14.9644 73.1515 14.8959C75.86 14.3796 78.0592 12.069 78.0592 8.93154V0.357422H75.2077Z" fill="#F6F8F6"></path>
-                      <path d="M89.6895 0.357422V10.056V9.85098V10.1828L89.3729 9.5675L83.4056 0.357422H81.9799H80.5542V14.6475H83.4056V4.94898V4.64443L84.0933 6.01049L89.6895 14.6475H91.2471H92.5409V0.357422H89.6895Z" fill="#F6F8F6"></path>
-                      <path d="M19.2432 0.00390625C15.1118 0.00390625 11.7628 3.36076 11.7628 7.50154C11.7628 11.6424 15.1119 14.9992 19.2432 14.9992C23.3745 14.9992 26.7235 11.6424 26.7235 7.50154C26.7235 3.36076 23.3745 0.00390625 19.2432 0.00390625ZM19.2455 12.8556C19.2455 12.8556 19.2447 12.8556 19.2443 12.8556C19.244 12.8556 19.2436 12.8556 19.2432 12.8556C16.7554 12.8544 14.966 11.0835 14.966 7.50144C14.966 3.9194 16.7434 2.14848 19.2432 2.14741C19.2432 2.14741 19.244 2.14741 19.2443 2.14741C19.2447 2.14741 19.2451 2.14741 19.2455 2.14741C21.7454 2.14857 23.5226 3.91949 23.5226 7.50154C23.5226 11.0836 21.7331 12.8545 19.2455 12.8557V12.8556Z" fill="#F6F8F6"></path>
-                      <path d="M102.118 0.357422H99.2669L93.3857 14.2445V14.6476H95.9256L97.4385 11.075L97.4484 11.0517C98.5235 11.1029 99.6049 11.1298 100.693 11.1298C101.78 11.1298 102.862 11.1029 103.937 11.0517L103.947 11.075L105.46 14.6476H108V14.2445L102.118 0.357422ZM100.693 8.62903C99.9555 8.62903 99.2214 8.61598 98.4903 8.59143L98.4976 8.57432L100.693 3.39117L102.888 8.57432L102.895 8.59143C102.164 8.61598 101.43 8.62903 100.693 8.62903Z" fill="#F6F8F6"></path>
-                    </g>
-                    <defs>
-                      <clipPath id="clip0_669_149">
-                        <rect width="108" height="15" fill="white" transform="translate(0 0.00390625)"></rect>
-                      </clipPath>
-                    </defs>
-                  </svg>
+                  <img src="" class='w-40 h-10' alt="Logo image">
                 </div>
               </a>
-              <div id="w-node-c531c951-5c9c-adb3-11cb-e7b80398165a-03981654" class="footer-content-div _1">
-                <a theme="2" href="/" aria-current="page" class="km-footer-link w--current">Home</a>
-                <a theme="2" href="/about" class="km-footer-link">About</a>
-                <a theme="2" href="/expertise" class="km-footer-link">Expertise</a>
-                <a theme="2" href="/careers" class="km-footer-link">Careers</a>
-                <a theme="2" href="/contact" class="km-footer-link">Contact</a>
+              <div class="flex justify-between  w-full">
+                {#each footerLinks as link}
+                    <a theme="2" href="{link.href}"  class="km-footer-link w--current">{link.title}</a>
+                {/each}
               </div>
             </div>
-            <div class="footer-down">
-              <div id="w-node-_6393f58d-e2f7-19b9-87f6-710df36ed2c9-03981654" class="footer-div-ct">
+            <div class="footer-down w-full">
+              <div class="footer-div-ct">
                 <div class="km-small-p ftte">All Rights Reserved.</div>
-                <div class="km-small-p ftte">KOMMUNA Media © 2012-2024. <br>
+                <!-- © -->
+                <div class="km-small-p ftte">2024. <br>
                 </div>
               </div>
-              <div id="w-node-c531c951-5c9c-adb3-11cb-e7b80398165f-03981654" class="footer-div-ct rt">
+              <div  class="footer-div-ct rt">
                 <div class="social-icons-div">
-                  <a data-w-id="d528bb2f-a6e5-d381-74f4-9a66f14c01b1" href="https://www.linkedin.com/company/kommuna-media" target="_blank" class="social-link w-inline-block">
+                  <a  href="/" target="_blank" class="social-link w-inline-block">
                     <div class="social-icon w-embed">
                       <svg width="1.5rem" height="1.5rem" viewBox="0 0 44 41" fill="none" xmlns="http://www.w3.org/2000/svg">
                         <path d="M9.76914 4.53054C9.76914 7.00155 7.82763 8.94306 5.35662 8.94306C2.8856 8.94306 0.944092 7.00155 0.944092 4.53054C0.944092 2.05952 2.8856 0.118011 5.35662 0.118011C7.82763 0.118011 9.76914 2.05952 9.76914 4.53054ZM9.76914 12.4731H0.944092V40.7133H9.76914V12.4731ZM23.8892 12.4731H15.0642V40.7133H23.8892V25.8872C23.8892 17.5916 34.4793 16.8856 34.4793 25.8872V40.7133H43.3043V22.8866C43.3043 8.94306 27.5957 9.47257 23.8892 16.3561V12.4731Z" fill="currentColor"></path>
                       </svg>
                     </div>
                   </a>
-                  <a href="https://www.instagram.com/kommunamedia/" target="_blank" class="social-link ig w-inline-block">
-                    <div class="social-icon ig w-embed">
-                      <svg width="1.45rem" height="1.3rem" viewBox="0 0 47 47" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M23.6211 4.27133C29.834 4.27133 30.6106 4.27132 33.1345 4.46548C39.5415 4.65963 42.4538 7.76604 42.6479 13.9789C42.8421 16.5028 42.8421 17.0853 42.8421 23.2981C42.8421 29.511 42.8421 30.2876 42.6479 32.6174C42.4538 38.8302 39.3474 41.9366 33.1345 42.1308C30.6106 42.3249 30.0281 42.3249 23.6211 42.3249C17.4083 42.3249 16.6317 42.3249 14.3019 42.1308C7.89489 41.9366 4.98263 38.8302 4.78847 32.6174C4.59432 30.0934 4.59432 29.511 4.59432 23.2981C4.59432 17.0853 4.59432 16.3087 4.78847 13.9789C4.98263 7.76604 8.08904 4.65963 14.3019 4.46548C16.6317 4.27132 17.4083 4.27133 23.6211 4.27133ZM23.6211 0C17.2141 0 16.4375 0 14.1077 0.194151C5.56508 0.582453 0.905451 5.24208 0.517149 13.7847C0.322998 16.1145 0.322998 16.8911 0.322998 23.2981C0.322998 29.7051 0.322998 30.4817 0.517149 32.8115C0.905451 41.3542 5.56508 46.0138 14.1077 46.4021C16.4375 46.5963 17.2141 46.5963 23.6211 46.5963C30.0281 46.5963 30.8047 46.5963 33.1345 46.4021C41.6772 46.0138 46.3368 41.3542 46.7251 32.8115C46.9193 30.4817 46.9193 29.7051 46.9193 23.2981C46.9193 16.8911 46.9193 16.1145 46.7251 13.7847C46.3368 5.24208 41.6772 0.582453 33.1345 0.194151C30.8047 0 30.0281 0 23.6211 0ZM23.6211 11.2608C17.02 11.2608 11.5838 16.697 11.5838 23.2981C11.5838 29.8993 17.02 35.3355 23.6211 35.3355C30.2223 35.3355 35.6585 29.8993 35.6585 23.2981C35.6585 16.697 30.2223 11.2608 23.6211 11.2608ZM23.6211 31.0642C19.3498 31.0642 15.8551 27.5695 15.8551 23.2981C15.8551 19.0268 19.3498 15.5321 23.6211 15.5321C27.8925 15.5321 31.3872 19.0268 31.3872 23.2981C31.3872 27.5695 27.8925 31.0642 23.6211 31.0642ZM36.0468 8.15435C34.4936 8.15435 33.3287 9.31925 33.3287 10.8725C33.3287 12.4257 34.4936 13.5906 36.0468 13.5906C37.6 13.5906 38.7649 12.4257 38.7649 10.8725C38.7649 9.31925 37.6 8.15435 36.0468 8.15435Z" fill="currentColor"></path>
-                      </svg>
-                    </div>
-                  </a>
+
                 </div>
-                <div class="km-small-p right">An <a href="https://altavista.group" theme="1" target="_blank" class="avg-link">Altavista Group</a> company. </div>
+                <div class="km-small-p right">An <a href="https://oleg-darkdev.vercel.app" theme="1" target="_blank" class="avg-link"> Author & Creator </a> Oleg Medvedev. </div>
               </div>
             </div>
           </div>
