@@ -1,7 +1,7 @@
 <section theme="2" class="hero-section">
       <div class="hero-container">
         <div class="hero-wrap">
-          <h1 class="km-h1 hero">Lorem Ipsum is <br> simply dummy text  </h1>
+          <h1 class="km-h1 hero">Paleo Stories - <br> educational project  </h1>
         </div>
       </div>
     </section>
@@ -14,7 +14,7 @@
           </div>
         </div>
         <div class="hero-wrap-copy">
-          <h1 class="km-h1 hero spline">Lorem Ipsum is <br> simply dummy text  </h1>
+          <h1 class="km-h1 hero spline">Paleo Stories - <br> educational project  </h1>
         </div>
         <div class="bottom-gradient"></div>
       </div>
@@ -28,7 +28,7 @@
           </video>
         </div> -->
         <div class="hero-wrap-video">
-          <h1 class="km-h1 hero">Lorem Ipsum is <br> simply dummy text  </h1>
+          <h1 class="km-h1 hero">Paleo Stories - <br> educational project </h1>
         </div>
         <div class="bottom-gradient"></div>
       </div>
