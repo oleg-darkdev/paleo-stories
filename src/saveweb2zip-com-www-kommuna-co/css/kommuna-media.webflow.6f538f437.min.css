@@ -2398,7 +2398,7 @@ strong {
 .body-12 {
   background-color: #fff;
 }
-.navbar-kommuna {
+.navbar-paleo-stories {
   background-color: var(--swatch--dark);
   position: fixed;
   top: 0%;
@@ -2429,7 +2429,7 @@ strong {
       var(--swatch--dark) 11%,
       rgba(255, 255, 255, 0) 86%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -2441,7 +2441,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
   display: none;
@@ -2561,7 +2561,7 @@ strong {
 }
 .carrusel-img-div {
   aspect-ratio: 5/3;
-  background-image: url(../images/65ba9bb70ecc350442f5d5fa_pabellon-m-kommuna.jpg);
+  background-image: url(../images/65ba9bb70ecc350442f5d5fa_pabellon-m-paleo-stories.jpg);
   background-position: 0 0;
   background-size: cover;
   flex: none;
@@ -2573,18 +2573,18 @@ strong {
   overflow: hidden;
 }
 .carrusel-img-div._2 {
-  background-image: url(../images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
+  background-image: url(../images/65cba84db255d0fed236818a_bww-futbol-paleo-stories.jpg);
   background-position: 50%;
   overflow: hidden;
 }
 .carrusel-img-div._3 {
-  background-image: url(../images/65ba9bcf245a3963eb931efd_byd-cleber-kommuna.jpg);
+  background-image: url(../images/65ba9bcf245a3963eb931efd_byd-cleber-paleo-stories.jpg);
   background-position: 50%;
   min-height: 22rem;
   overflow: hidden;
 }
 .carrusel-img-div._4 {
-  background-image: url(../images/65ba9ba039cadc72b94222b1_tim-hortons-kommuna.jpg);
+  background-image: url(../images/65ba9ba039cadc72b94222b1_tim-hortons-paleo-stories.jpg);
 }
 .forces-section {
   padding-top: var(--padding-section);
@@ -3022,7 +3022,7 @@ strong {
   margin-right: 0;
   position: relative;
 }
-.why-kommuna {
+.why-paleo-stories {
   padding: var(--padding-section) var(--padding-width-desktop);
   background-color: var(--theme--background);
   display: block;
@@ -3065,10 +3065,10 @@ strong {
   display: flex;
 }
 .carrusel-logos._2 {
-  background-image: url(../images/6595e9506381e1908b178e61_image%203home-kommuna.jpg);
+  background-image: url(../images/6595e9506381e1908b178e61_image%203home-paleo-stories.jpg);
 }
 .carrusel-logos._3 {
-  background-image: url(../images/6595e9673387c8d6a7e7291d_image%202home-kommuna.jpg);
+  background-image: url(../images/6595e9673387c8d6a7e7291d_image%202home-paleo-stories.jpg);
 }
 .svg-code {
   display: none;
@@ -3135,14 +3135,14 @@ strong {
   background-image: url(../images/6596121196fea550433f9560_ccpm-logo-client.png);
 }
 .marquee-image.png.jh {
-  background-image: url(../images/65a592d276bdbd487fccb978_johns-hopkins-university-kommuna.png);
+  background-image: url(../images/65a592d276bdbd487fccb978_johns-hopkins-university-paleo-stories.png);
   background-size: cover;
 }
 .marquee-image.png.airtable {
-  background-image: url(../images/65a599f51cf5628f65fb7adc_airtable-kommuna-tools-expertise.png);
+  background-image: url(../images/65a599f51cf5628f65fb7adc_airtable-paleo-stories-tools-expertise.png);
 }
 .marquee-image.png.sales-force {
-  background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
+  background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-paleo-stories-expertise-tools.png);
   background-size: cover;
 }
 .marquee-image.webflow {
@@ -3663,7 +3663,7 @@ strong {
 }
 .footer-wrapper.careers {
   background-image: linear-gradient(#000, transparent 54%),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 0%;
   background-repeat: repeat, no-repeat;
   background-size: auto, 1300px;
@@ -3671,7 +3671,7 @@ strong {
 .footer-wrapper.xelw {
   background-color: rgba(31, 13, 13, 0);
   background-image: linear-gradient(#030303 31%, transparent 71%, #030303 89%),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50% 90%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -3976,20 +3976,20 @@ strong {
   display: none;
 }
 .ft-image-item {
-  background-image: url(../images/659c0a7803482ce5bde9fae9_byd-kommuna.jpg);
+  background-image: url(../images/659c0a7803482ce5bde9fae9_byd-paleo-stories.jpg);
   background-position: 50% 60%;
   background-size: cover;
   min-height: 17rem;
 }
 .ft-image-item._2 {
-  background-image: url(../images/659c0a868081d4b2cdf03662_buffalo-wild-wings-kommuna.jpg);
+  background-image: url(../images/659c0a868081d4b2cdf03662_buffalo-wild-wings-paleo-stories.jpg);
   background-position: 50% 20%;
 }
 .ft-image-item._3 {
-  background-image: url(../images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-kommuna.jpg);
+  background-image: url(../images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-paleo-stories.jpg);
 }
 .ft-image-item._4 {
-  background-image: url(../images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-kommuna.jpg);
+  background-image: url(../images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-paleo-stories.jpg);
   background-position: 50% 40%;
   min-height: 22rem;
 }
@@ -4676,7 +4676,7 @@ strong {
   position: relative;
 }
 .utility-page-wrap {
-  background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+  background-image: url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 50%;
   background-size: cover;
   justify-content: center;
@@ -5528,7 +5528,7 @@ strong {
   text-decoration: none;
 }
 .brand-section {
-  background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+  background-image: url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 50%;
   background-size: cover;
   padding-top: 0;
@@ -5773,7 +5773,7 @@ strong {
       var(--swatch--dark) 11%,
       rgba(255, 255, 255, 0) 86%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -5785,7 +5785,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
 }
@@ -5811,7 +5811,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
 }
@@ -5927,7 +5927,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
   display: none;
@@ -6145,7 +6145,7 @@ strong {
       var(--swatch--dark) 11%,
       rgba(255, 255, 255, 0) 86%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, contain;
@@ -6157,7 +6157,7 @@ strong {
       var(--swatch--dark),
       rgba(255, 255, 255, 0) 52%
     ),
-    url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
   background-position: 0 0, 50%;
   background-size: auto, 1511px;
   display: none;
@@ -6267,7 +6267,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 72%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -6278,7 +6278,7 @@ strong {
     display: block;
   }
   .hero-container {
-    background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    background-image: url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 50%;
     background-size: cover;
     position: static;
@@ -6384,7 +6384,7 @@ strong {
     margin-left: 0.5rem;
     margin-right: 0.5rem;
   }
-  .why-kommuna {
+  .why-paleo-stories {
     padding-top: var(--padding-height-mobile);
     padding-bottom: var(--padding-height-mobile);
     display: block;
@@ -6436,7 +6436,7 @@ strong {
     background-position: 0 0;
   }
   .footer-wrapper.xelw {
-    background-image: url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+    background-image: url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 30% 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -6516,20 +6516,20 @@ strong {
     overflow: hidden;
   }
   .ft-image-item {
-    background-image: url(../images/659c0a7803482ce5bde9fae9_byd-kommuna.jpg);
+    background-image: url(../images/659c0a7803482ce5bde9fae9_byd-paleo-stories.jpg);
     background-position: 50%;
     background-size: cover;
     min-height: 15rem;
   }
   .ft-image-item._2 {
-    background-image: url(../images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
+    background-image: url(../images/65cba84db255d0fed236818a_bww-futbol-paleo-stories.jpg);
   }
   .ft-image-item._3 {
-    background-image: url(../images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-kommuna.jpg);
+    background-image: url(../images/659c0a6a3d98a8cc92ca21f7_escenario-gnp-paleo-stories.jpg);
     min-height: 14rem;
   }
   .ft-image-item._4 {
-    background-image: url(../images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-kommuna.jpg);
+    background-image: url(../images/659c0bc7c4461065e8927dfe_tim-hortons-sessions-paleo-stories.jpg);
     min-height: 10rem;
   }
   .client-container {
@@ -6669,7 +6669,7 @@ strong {
     background-size: 130%;
   }
   .tool-item.png.sales-force {
-    background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
+    background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-paleo-stories-expertise-tools.png);
     background-size: cover;
   }
   .tool-item.arauco {
@@ -6893,7 +6893,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 72%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -6978,7 +6978,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 72%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7059,7 +7059,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 48%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7142,7 +7142,7 @@ strong {
     margin-left: 0.5rem;
     margin-right: 0.5rem;
   }
-  .why-kommuna {
+  .why-paleo-stories {
     padding-right: var(--padding-width-mobile);
     padding-left: var(--padding-width-mobile);
   }
@@ -7359,7 +7359,7 @@ strong {
     padding: 0.5rem;
   }
   .tool-item.png.sales-force {
-    background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-kommuna-expertise-tools.png);
+    background-image: url(../images/65a5a1dc544ff4817f890cd0_salesforce-paleo-stories-expertise-tools.png);
     background-size: cover;
   }
   .tool-item.bk {
@@ -7535,7 +7535,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 48%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7611,7 +7611,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 48%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7658,7 +7658,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 18%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -7669,7 +7669,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .hero-container {
@@ -7769,14 +7769,14 @@ strong {
   }
   .footer-wrapper.careers {
     background-image: linear-gradient(#000, transparent 54%),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, 1200px;
   }
   .footer-wrapper.xelw {
     background-image: linear-gradient(#030303 35%, transparent 90%),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, no-repeat;
     background-size: auto, 1010px;
@@ -8180,7 +8180,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 18%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -8191,7 +8191,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .hero-section-spline {
@@ -8206,7 +8206,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .spline-hero-container {
@@ -8276,7 +8276,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
   }
   .background-video-6 {
@@ -8328,7 +8328,7 @@ strong {
         var(--swatch--dark),
         rgba(255, 255, 255, 0) 18%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
     background-repeat: repeat, repeat;
     background-size: auto, cover;
@@ -8339,7 +8339,7 @@ strong {
         var(--swatch--dark) 6%,
         rgba(255, 255, 255, 0) 45%
       ),
-      url(../images/65a88b4db839966e343463e4_bg-kommuna-about-us-second.png);
+      url(../images/65a88b4db839966e343463e4_bg-paleo-stories-about-us-second.png);
     background-position: 0 0, 50%;
   }
 }
