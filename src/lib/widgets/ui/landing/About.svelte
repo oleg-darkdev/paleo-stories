@@ -1,3 +1,17 @@
+<script>
+  	import Carousel from 'svelte-carousel'
+    import { browser } from '$app/environment'
+
+const gallery = [
+  '/images/gallery/1.jpg',
+  '/images/gallery/2.jpg',
+  '/images/gallery/3.jpg',
+  '/images/gallery/4.jpg',
+  '/images/gallery/5.jpg',
+  '/images/gallery/6.jpg',
+]
+</script>
+
 <section theme="2" class="about-home-section">
       <div  class="container">
         <div class="w-full flex flex-row justify-between flex-wrap">
@@ -27,15 +41,27 @@ It has survived not only five centuries, but also the leap into electronic types
         <div  class="ft-image-item _3"></div>
       </div>
       <div class="carrusel-container">
+
+        <a name='about' />
         <div  class="scroll-slider-list">
-          <div class="carrusel-img-div"></div>
-          <div class="carrusel-img-div _2"></div>
-          <div class="carrusel-img-div _3"></div>
-          <div class="carrusel-img-div _4"></div>
-          <div class="carrusel-img-div"></div>
-          <div class="carrusel-img-div _2"></div>
-          <div class="carrusel-img-div _3"></div>
-          <div class="carrusel-img-div _4"></div>
+		{#if browser}
+								<Carousel
+                  particlesToShow={3}
+                  particlesToScroll={1}
+									duration={800}
+									autoplay
+									timingFunction="linear"
+									dots={false}
+									arrows={false}
+									swiping={true}
+									>
+<!--                   autoplayDuration={0}
+ -->
+                  {#each gallery as img}
+                      <div class="carrusel-img-div mx-2" style="background-image: url({img});"></div>
+                  {/each}
+                </Carousel>
+							{/if}
         </div>
       </div>
     </section>
