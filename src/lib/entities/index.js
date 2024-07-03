@@ -1,4 +1,4 @@
-// import FactSheet from './ui/landing/FactSheet.svelte';
+import CarouselCard from './ui/landing/CarouselCard.svelte';
 
 
-// export { FactSheet };
+export { CarouselCard };
