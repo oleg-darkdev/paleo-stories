@@ -6,26 +6,58 @@
         `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
         `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
       ]
-    }
-  ]
+    },
+    {
+      title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      desc: [
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
+      ]
+    },
+    {
+      title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      desc: [
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
+      ]
+    },
+    {
+      title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      desc: [
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
+      ]
+    },
+    {
+      title: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+      desc: [
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+        `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`
+      ]
+    },
+  ];
 </script>
 
-<section  theme="2" class="faqs">
+<section  theme="2" class="pb-40">
       <div class="container relative">
         <div class="w-full">
           <div  class="faqs-content-one">
             <h2 class="km-h4 fqq">FREQUENTLY ASKED QUESTIONS</h2>
           </div>
           <div class="faqs-content-two">
-            <div class="faqs-header-one">
+            <div class="faqs-header-one" >
               <div class="km-h3 fw">Have questions? We have answers, find the most common ones below:</div>
             </div>
+
+            <a name='faq' />
+
+
             <div class="padding _6rem"></div>
             <div class="faqs-wrapper">
               <div class="accordion js-accordion">
                 {#each faqData as faq}
                 <div class="accordion__item js-accordion-item active">
-                  <div class="accordion-header js-accordion-header">
+                  <div class="accordion-header js-accordion-header" on:click={()=> faq.showFaq = !faq.showFaq}>
                     <div class="km-h5">{faq.title}</div>
                     <div class="html-embed-7 js-accordion-icon active w-embed">
                       <svg width="25" height="25" viewBox="0 0 45 45" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -33,6 +65,7 @@
                       </svg>
                     </div>
                   </div>
+                  {#if faq.showFaq}
                   <div class="accordion-body js-accordion-body">
                     <div class="km-p w-richtext">
                       {#each faq.desc as desc}
@@ -43,6 +76,7 @@
                       {/each}
                     </div>
                   </div>
+                  {/if}
                 </div>
                 {/each}
               </div>
