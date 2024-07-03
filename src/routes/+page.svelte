@@ -24,7 +24,7 @@
 
     <Faq />
 
-    <Feedback />
+    <!-- <Feedback /> -->
 
     <Footer />
     <!-- </div> -->
