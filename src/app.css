@@ -7723,9 +7723,7 @@ strong {
         rgba(255, 255, 255, 0.77),
         rgba(255, 255, 255, 0.77)
       ),
-      url(https://cdn.prod.website-files.com/5fecb6a109a3ad777769b977/6595ac3273a140e42a77b5fe_Displaced%20Ball%20White%20-%20Copy%401-1512x802%20\(
-          1\
-        ).jpg);
+      url();
     background-size: auto, cover;
     display: block;
   }
