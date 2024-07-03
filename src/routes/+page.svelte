@@ -4,28 +4,29 @@
   // import {  } from '$lib/entities'
 </script>
 <svelte:head>
-  <title>Title</title>
+  <title>THE Paleo Stories</title>
 </svelte:head>
-<!-- <div -->
-    <Nav />
 
 
-    <!-- <TargetAudience />  -->
-    <!-- <TargetAudience />  -->
-    <Hero />
+<Nav />
 
-    <About />
 
-    <Features />
+<!-- <TargetAudience />  -->
+<!-- <TargetAudience />  -->
+<Hero />
 
-    <TheStories />
+<About />
 
-    <TargetAudience />
+<Features />
 
-    <Faq />
+<TheStories />
 
-    <!-- <Feedback /> -->
+<TargetAudience />
 
-    <Footer />
-    <!-- </div> -->
+<Faq />
+
+<!-- <Feedback /> -->
+
+<Footer />
+
 
