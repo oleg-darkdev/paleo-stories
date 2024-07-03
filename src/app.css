@@ -3,9 +3,7 @@
 @tailwind utilities;
 
 
-.js-accordion-body {
-  display: none;
-}
+
 
 html {
   -webkit-text-size-adjust: 100%;
@@ -2570,7 +2568,7 @@ strong {
 }
 .carrusel-img-div {
   aspect-ratio: 5/3;
-  background-image: url(/images/65ba9bb70ecc350442f5d5fa_pabellon-m-kommuna.jpg);
+  
   background-position: 0 0;
   background-size: cover;
   flex: none;
@@ -2581,20 +2579,7 @@ strong {
   margin-right: 0;
   overflow: hidden;
 }
-.carrusel-img-div._2 {
-  background-image: url(/images/65cba84db255d0fed236818a_bww-futbol-kommuna.jpg);
-  background-position: 50%;
-  overflow: hidden;
-}
-.carrusel-img-div._3 {
-  background-image: url(/images/65ba9bcf245a3963eb931efd_byd-cleber-kommuna.jpg);
-  background-position: 50%;
-  min-height: 22rem;
-  overflow: hidden;
-}
-.carrusel-img-div._4 {
-  background-image: url(/images/65ba9ba039cadc72b94222b1_tim-hortons-kommuna.jpg);
-}
+
 .forces-section {
   padding-top: var(--padding-section);
   padding-bottom: var(--padding-section);
