@@ -1,27 +1,17 @@
 <script>
-  const links = [
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-  ]
+ 	import {navigation} from '$shared';
 </script>
 
 <div class="navbars">
-	<nav theme="2" class="nvfix nvcareers">
-		<div class="nvfix-container">
+				<!-- <a href="/"  class="mx-auto w-[300px]">
+				<div class="html-embed-6 w-embed">
+					<img src="/images/logo.svg" alt="logo" class="mx-auto w-auto h-16">
+				</div>
+			</a> -->
+	<!-- nvfix nvcareers -->
+	<!-- <nav theme="2" class=""> -->
+		<!-- nvfix-container -->
+		<!-- <div class="mx-auto "> -->
 			<!-- <div class="w-locales-list">
 				<div data-delay="0" theme="2" class="dropdown-2 w-dropdown">
 					<div class="dropdownt w-dropdown-toggle">
@@ -53,11 +43,7 @@
 					</nav>
 				</div>
 			</div> -->
-			<a href="/"  class="mx-auto">
-				<div class="html-embed-6 w-embed">
-            <img src="" alt="logo" class="mx-auto w-20 h-10">
-				</div>
-			</a>
+
 			<!-- <a
 				theme="2"
 				href="/"
@@ -65,8 +51,8 @@
 			>
 
 			</a> -->
-		</div>
-	</nav>
+		<!-- </div> -->
+	<!-- </nav> -->
 	<nav class="nvkm">
 		<div class="nvkm-disp-wrapper" />
 		<div class="nvkm-menu">
@@ -80,8 +66,8 @@
 <div class="floating-navbar home">
 	<div class="text-block-16">On this page:</div>
 	<div class="floatline" />
-  {#each links as link}
-	<a href="{link.href}" class="float-link">{link.title}</a>
-	<div class="floatline" />
-  {/each}
+	{#each navigation as link}
+		<a href="{link.href}" class="float-link">{link.title}</a>
+		<div class="floatline" />
+	{/each}
 </div>

@@ -1,22 +1,5 @@
 <script>
-  const footerLinks = [
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-    {
-      title: 'Loremasdas',
-      href: '/'
-    },
-  ]
+ 	import {navigation} from '$shared';
 </script>
 
 <div theme="2" class="footer-wrapper">
@@ -26,6 +9,8 @@
             <h1 class="km-h2">Let's get you Marketing superpowers now. <br>
               Contact us to create innovative gamification of the learning process together.  </h1>
             <div class="padding _1rem"></div>
+            <a name='contact' />
+
             <div class="button-div">
               <a button-style="1" theme="2" href="/" class="button-main-with-link w-inline-block">
                 <svg viewBox="0 0 15 15" fill="none" class="btn_main_icon">
@@ -45,11 +30,11 @@
             <div class="footer-up w-full">
               <a href="/" class="brand-small w-nav-brand w--current">
                 <div class="w-embed">
-                  <img src="" class='w-40 h-10' alt="Logo image">
+                  <img src="/images/logo.svg" class='w-auto h-16' alt="Logo image">
                 </div>
               </a>
               <div class="flex justify-between  w-full">
-                {#each footerLinks as link}
+                {#each navigation as link}
                     <a theme="2" href="{link.href}"  class="km-footer-link w--current">{link.title}</a>
                 {/each}
               </div>
