@@ -18,6 +18,10 @@
     {
       title: 'Contact',
       href: '#contact'
+   },
+    {
+      title: 'App',
+      href: '/app'
     },
   ]
 

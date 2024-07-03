@@ -64,7 +64,7 @@
 	</nav>
 </div>
 <div class="floating-navbar home">
-	<div class="text-block-16">On this page:</div>
+	<div class="text-block-16">THE Paleo Stories:</div>
 	<div class="floatline" />
 	{#each navigation as link}
 		<a href="{link.href}" class="float-link">{link.title}</a>
