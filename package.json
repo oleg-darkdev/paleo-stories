@@ -64,6 +64,7 @@
 		"aos": "^2.3.4",
 		"carbon-icons-svelte": "^12.6.0",
 		"siema": "^1.5.1",
+		"svelte-carousel": "^1.0.25",
 		"tailwindcss": "^3.3.1"
 	}
 }
