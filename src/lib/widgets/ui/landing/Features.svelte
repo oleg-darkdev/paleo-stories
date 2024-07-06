@@ -12,19 +12,19 @@
 
 <section theme="2" class="forces-section">
       <a name='features' />
-      
+
       <div class="container-fw-r">
         <div class="col-12">
-          
+
           <div  class="forces-content-one">
-            <div class="km-h2 split-lines">Gamification with mega features</div>
+            <div class="km-h2 split-lines">Educational boardgame with mega features</div>
           </div>
 
 
-          
+
 
           <div class="slider-forces_component">
-            
+
             <div class="slider-forces_overflow">
               <div>
                 <div class="slider-forces_wrapper">

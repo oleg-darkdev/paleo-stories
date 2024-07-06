@@ -9,11 +9,16 @@
         <h2 class="km-h4">ABOUT Paleo Stories</h2>
       </div>
       <div  class="ab-content-two">
-        <p class="km-h2 about split-lines">
-          Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        <p class="km-h2 about split-lines mb-4">
+          THE Paleo Stories is an educational board game with a web-based supplement that brings players into the fascinating world of paleontology. Players become real paleontologists exploring real paleontological digs and expeditions, searching for fossils and studying dinosaurs.
+        </p>
+
+        <p class="km-h2 about split-lines mb-4">
+          The boardgame cultivates an enthusiasm for paleontology and helps to better understand the processes of paleontological excavations and the study of ancient life forms.
         </p>
         <p class="km-h2 about split-lines">
-          It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.            </p>
+          Thanks to the interactive web application, players have access to up-to-date scientific information and exciting educational materials.
+        </p>
         <div class="padding _6rem"></div>
       </div>
       <div class="div-block-102"></div>
