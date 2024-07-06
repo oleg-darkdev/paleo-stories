@@ -96,13 +96,8 @@
 					>
 				</h1>
 				<div class="mindset-wrap-2">
-					<p class="km-h3 mindsetright mb-2">
-						Product Web Engineer-IT Enthusiast, Gamification Coach, and JavaScript Programmer with
-						across various technologies, <strong>
-							4 years of experience in board game development and 3 years in web application
-							development
-						</strong>
-						including startups and open-source projects. See my open sorce projects are available on
+					<p class="km-h3 mindsetright mb-2 ">
+						Product Web Engineer-IT Enthusiast, Gamification Coach, and JavaScript Programmer with across various technologies, <strong>	4 years of experience in board game development and 3 years in web application development </strong> including startups and open-source projects. See my open sorce projects are available on
 						<strong>
 							<a
 								class="text-style-link text-black"
