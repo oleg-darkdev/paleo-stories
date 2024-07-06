@@ -6117,7 +6117,9 @@ strong {
 	.km-h3.center-center.split-lines {
 		margin-bottom: 0;
 	}
-	.km-h3.mindsetright,
+	.km-h3.mindsetright  {
+		text-align: right;
+	}
 	.km-small-p,
 	.km-small-p.right,
 	.km-small-p.right-copy {
@@ -6862,7 +6864,7 @@ strong {
 	}
 	.km-h3.mindset,
 	.km-h3.mindsetright {
-		text-align: center;
+		text-align: right;
 	}
 	.km-h4 {
 		font-size: var(--font-smartphone--h4);
@@ -7388,7 +7390,7 @@ strong {
 	}
 	.km-h3-career-intro.mindset,
 	.km-h3-career-intro.mindsetright {
-		text-align: center;
+		text-align: right;
 	}
 	.hero-section-careers {
 		background-image: linear-gradient(to top, var(--swatch--dark), rgba(255, 255, 255, 0) 48%),
